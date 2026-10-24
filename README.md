@@ -7,7 +7,7 @@ Trabajo sobre todo con **Java y Spring Boot** en el backend y **Angular, React y
 - 🔭 Ahora mismo: una app de gestión para un gimnasio, desde los requisitos con el cliente hasta la entrega.
 - 🌱 Aprendiendo: testing (JUnit 5, Testcontainers), Docker y CI con GitHub Actions.
 - 💼 Busco mi primer puesto como desarrollador junior, presencial, híbrido o en remoto.
-- 📫 [LinkedIn](https://www.linkedin.com/in/raúl-núñez-gonzález-17032a389) · raulnugo06@gmail.com
+- 📫 [Portfolio](https://raulnugo06.github.io) · [LinkedIn](https://www.linkedin.com/in/raúl-núñez-gonzález-17032a389) · raulnugo06@gmail.com
 
 ## Experiencia
 
