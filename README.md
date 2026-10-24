@@ -22,7 +22,7 @@ Nuevas funcionalidades y mantenimiento de aplicaciones web internas: Angular en 
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
 | [**Rivange**](https://github.com/RaulNuGo06/Rivange) | App Android para un complejo deportivo: reservas de pistas, partidos, ranking, chat y tiempo real de una estación meteorológica. Proyecto de fin de ciclo. | Java, Android, Firebase Auth, Firestore, OkHttp, Home Assistant |
-| [**El Centenario**](https://github.com/RaulNuGo06/el-centenario) | Web de muestra para un restaurante de Almendralejo, con la carta editable desde el código. | HTML, CSS, JavaScript |
+| [**El Centenario**](https://github.com/RaulNuGo06/el-centenario) | Web de muestra para un restaurante de Almendralejo, con la carta editable desde el código. [Ver en vivo](https://raulnugo06.github.io/el-centenario/) | HTML, CSS, JavaScript |
 
 ## Tecnologías
 
