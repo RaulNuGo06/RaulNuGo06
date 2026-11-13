@@ -49,6 +49,14 @@ App para un complejo deportivo: reservas de pistas, partidos, ranking, chat y da
 
 <sub>Java · Android · Firebase Auth · Firestore · OkHttp · Home Assistant</sub>
 
+### Trabajos para clientes · código privado
+
+Con RAMABIT también hago proyectos a medida para negocios locales. El código y los datos son de cada cliente, así que aquí solo cuento de qué van:
+
+- **App de marca blanca para gimnasios:** cada gimnasio la lanza con su marca. Rutinas, entrenos, récords y afluencia para los socios; avisos, incidencias y estadísticas para el gimnasio. Varios gimnasios en una sola base de datos, aislados con RLS de PostgreSQL. <sub>React Native · Expo · TypeScript · Supabase</sub>
+- **Web para un restaurante:** rápida, sin dependencias y con la carta fácil de cambiar. <sub>HTML · CSS · JavaScript</sub>
+- **Propuesta de web para un negocio de lavado y detailing de coches:** servicios, trabajos realizados y cita por WhatsApp, pensada para el móvil.
+
 ## Cómo trabajo
 
 - **Tests y CI desde el primer commit.** Cada repositorio tiene su pipeline en GitHub Actions con lint, tests y compilación.
