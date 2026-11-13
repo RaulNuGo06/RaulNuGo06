@@ -16,10 +16,10 @@
 
 Desarrollador full stack junior en Almendralejo (Badajoz). Técnico Superior en DAM.
 
-Trabajo sobre todo con **Java y Spring Boot** en el backend y **Angular, React y TypeScript** en el frontend. He hecho prácticas en una empresa manteniendo aplicaciones en producción, y ahora desarrollo apps y webs a medida para negocios locales en **RAMABIT**, un proyecto que he cofundado.
+Trabajo sobre todo con **Java y Spring Boot** o **NestJS** en el backend y **Angular, React y TypeScript** en el frontend. He hecho prácticas en una empresa manteniendo aplicaciones en producción, y ahora desarrollo apps y webs a medida para negocios locales en **RAMABIT**, un proyecto que he cofundado.
 
 - 🔭 Ahora mismo: [**opInA**](https://github.com/RaulNuGo06/opina), opiniones de clientes para negocios locales con IA (Spring Boot + Angular + API de Claude), [**Hueco**](https://github.com/RaulNuGo06/hueco), reservas de citas (NestJS + React), y una app de marca blanca para gimnasios.
-- 🌱 Aprendiendo: testing (JUnit 5, Testcontainers), Docker y CI con GitHub Actions.
+- 🧪 Todos mis proyectos llevan tests y CI: JUnit 5 y Testcontainers en Java, Vitest en TypeScript, y Docker Compose para levantarlos enteros.
 - 💼 Busco mi primer puesto como desarrollador junior, presencial, híbrido o en remoto.
 
 ## 💼 Experiencia
@@ -44,18 +44,18 @@ Nuevas funcionalidades y mantenimiento de aplicaciones web internas: Angular en 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,nestjs,postgres,mysql,supabase,firebase&theme=dark" alt="Backend y datos"/><br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,angular,react,html,css,androidstudio&theme=dark" alt="Frontend y móvil"/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,idea&theme=dark" alt="Herramientas"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,react,vite,html,css,androidstudio&theme=dark" alt="Frontend y móvil"/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vscode,idea&theme=dark" alt="Herramientas"/>
 </p>
 
-<sub>También: Spring Security (JWT) · Flyway · APIs REST · Room · Gitflow · JUnit 5 · Testcontainers · Vitest · Scrum · Claude Code · GitHub Copilot</sub>
+<sub>También: Spring Security (JWT) · Flyway · Drizzle · Zod · TanStack Query · APIs REST · Docker Compose · nginx · Room · Gitflow · JUnit 5 · Testcontainers · Vitest · Scrum · Claude Code · GitHub Copilot</sub>
 
 ## 📊 Estadísticas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RaulNuGo06&show_icons=true&locale=es&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7" alt="Estadísticas de GitHub"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulNuGo06&layout=compact&locale=es&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7" alt="Lenguajes más usados"/>
+<img height="170" src="https://raw.githubusercontent.com/RaulNuGo06/RaulNuGo06/output/estadisticas.svg" alt="Estadísticas de GitHub"/>
+<img height="170" src="https://raw.githubusercontent.com/RaulNuGo06/RaulNuGo06/output/lenguajes.svg" alt="Lenguajes más usados"/>
 
 <img src="https://streak-stats.demolab.com?user=RaulNuGo06&locale=es&theme=tokyonight&hide_border=true&background=0d1117&ring=bb9af7&fire=bb9af7&currStreakLabel=7aa2f7" alt="Racha de contribuciones"/>
 
