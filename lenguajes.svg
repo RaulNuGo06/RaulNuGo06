@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="170" viewBox="0 0 350 170" role="img" aria-labelledby="t d">
+<title id="t">Lenguajes más usados</title><desc id="d">Java 54.0 %, TypeScript 34.2 %, HTML 6.5 %, CSS 4.9 %, Dockerfile 0.4 %</desc>
+<rect x="0.5" y="0.5" width="349" height="169" rx="6" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="36" font-family='Segoe UI, Ubuntu, Helvetica, Arial, sans-serif' font-size="18" font-weight="600" fill="#7aa2f7">Lenguajes más usados</text>
+<clipPath id="b"><rect x="24" y="52" width="302" height="8" rx="4"/></clipPath><g clip-path="url(#b)"><rect x="24.00" y="52" width="163.00" height="8" fill="#b07219"/><rect x="187.00" y="52" width="103.16" height="8" fill="#3178c6"/><rect x="290.16" y="52" width="19.78" height="8" fill="#e34c26"/><rect x="309.94" y="52" width="14.86" height="8" fill="#663399"/><rect x="324.80" y="52" width="1.20" height="8" fill="#384d54"/></g>
+<circle cx="29" cy="82" r="5" fill="#b07219"/><text x="40" y="86" font-family='Segoe UI, Ubuntu, Helvetica, Arial, sans-serif' font-size="13" fill="#c0caf5">Java <tspan fill="#9aa5ce">54,0 %</tspan></text>
+<circle cx="179" cy="82" r="5" fill="#3178c6"/><text x="190" y="86" font-family='Segoe UI, Ubuntu, Helvetica, Arial, sans-serif' font-size="13" fill="#c0caf5">TypeScript <tspan fill="#9aa5ce">34,2 %</tspan></text>
+<circle cx="29" cy="108" r="5" fill="#e34c26"/><text x="40" y="112" font-family='Segoe UI, Ubuntu, Helvetica, Arial, sans-serif' font-size="13" fill="#c0caf5">HTML <tspan fill="#9aa5ce">6,5 %</tspan></text>
+<circle cx="179" cy="108" r="5" fill="#663399"/><text x="190" y="112" font-family='Segoe UI, Ubuntu, Helvetica, Arial, sans-serif' font-size="13" fill="#c0caf5">CSS <tspan fill="#9aa5ce">4,9 %</tspan></text>
+<circle cx="29" cy="134" r="5" fill="#384d54"/><text x="40" y="138" font-family='Segoe UI, Ubuntu, Helvetica, Arial, sans-serif' font-size="13" fill="#c0caf5">Dockerfile <tspan fill="#9aa5ce">0,4 %</tspan></text>
+</svg>
